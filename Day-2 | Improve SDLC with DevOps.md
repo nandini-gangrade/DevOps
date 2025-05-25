@@ -1,4 +1,4 @@
-### 🎯 **Day 2 Theme: Software Development Life Cycle (SDLC) for DevOps Engineers**
+### 🎯 **Day 2 Theme: Software Development Life Cycle (SDLC) for DevOps Engineers** - devops is culture
 
 Understanding SDLC is essential for anyone involved in software—especially DevOps engineers—because it provides a **standardized, efficient, and quality-driven process** from planning to deployment.
 
